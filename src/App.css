@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap");
+
+:root {
+  position: relative;
+  --primary: #071a3c;
+  --secondary: #2f5fb2;
+  --white: rgb(355, 255, 255);
+}
+
+body {
+  position: relative;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  padding-right: 750px;
+  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+/* Header Styles */
+header {
+  background-color: var(--primary);
+}
+
+header .inner-content {
+  position: relative;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+
+
+.header__subttitle 
+{
+  padding: 240px;
+  padding-right: 545px;
+  padding-left: 465px;
+  color: rgb(83, 83, 83);
+  display: inline-block;
+  border: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 111.437%;
+  font-style: oblique; 
+}
+
+.think__green {
+  padding: 240px;
+  padding-right: 545px;
+  padding-left: 465px;
+  color: rgb(83, 83, 83);
+  display: inline-block;
+  border: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 111.437%;
+  font-style: oblique; 
+}
+
+.see__our__products {
+  padding: 240px;
+  padding-right: 545px;
+  padding-left: 465px;
+  color: rgb(83, 83, 83);
+  display: inline-block;
+  border: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 111.437%;
+  font-style: oblique;
+}
+.join__our__team{
+  padding: 240px;
+  padding-right: 545px;
+  padding-left: 465px;
+  color: rgb(83, 83, 83);
+  display: inline-block;
+  border: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 111.437%;
+  font-style: oblique;
+}
