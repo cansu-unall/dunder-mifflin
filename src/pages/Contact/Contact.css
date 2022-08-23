@@ -1,0 +1,64 @@
+
+.contract_first_part{
+    position: relative;
+    padding-right: 240px;
+    padding-left: 100px;
+    color: rgb(83, 83, 83);
+    display: inline-block;
+    border-color: #071a3c;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 90.437%;
+    bottom: 0px;
+  }
+  
+
+.contract_header_image {
+    position: relative;
+    left: 190px;
+    height: 143px;
+    width: 73%;
+    border-radius: 5%;
+}
+
+.member-image{
+    position: relative;
+    bottom: 139px;
+    left: 225px;
+    height: 240px;
+    width: 240px;
+}
+
+/**/
+
+.member-name {
+    font-size: 20px;
+    display: block;
+    position: relative;
+    color: black;
+    left: 600px;
+    top: 50px;
+}
+.contact-info {
+    font-size: 17px;
+    display: block;
+    position: relative;
+    color: black;
+    left: 600px;
+    top: 50px;
+}
+
+.title {
+    font-size: 15px;
+    display: block;
+    position: relative;
+    color: black;
+    left: 600px;
+    top: 50px;
+}
+.item-container {
+    display: block;
+    position: relative;
+    width: 500px;
+    height: 300px;
+}

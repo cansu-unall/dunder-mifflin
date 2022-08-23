@@ -1,0 +1,64 @@
+
+.catalog_first_part{
+    position: relative;
+    padding-right: 240px;
+    padding-left: 100px;
+    color: rgb(83, 83, 83);
+    display: inline-block;
+    border-color: #071a3c;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 90.437%;
+    bottom: 0px;
+  }
+  
+
+.catalog_header_image {
+    position: relative;
+    left: 190px;
+    height: 143px;
+    width: 73%;
+    border-radius: 5%;
+}
+
+.product-image,.other-product-image{
+    position: relative;
+    bottom: 3px;
+    left: 10px;
+    height: 240px;
+    width: 240px;
+}
+
+/**/
+
+.item-name {
+    font-size: 20px;
+    display: block;
+    position: relative;
+    color: black;
+    left: 600px;
+    top: 50px;
+}
+.item-price {
+    font-size: 17px;
+    display: block;
+    position: relative;
+    color: black;
+    left: 600px;
+    top: 50px;
+}
+
+.regular-price {
+    font-size: 15px;
+    display: block;
+    position: relative;
+    color: black;
+    left: 600px;
+    top: 50px;
+}
+.category-item-container {
+    display: block;
+    position: relative;
+    width: 500px;
+    height: 300px;
+}

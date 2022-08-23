@@ -1,5 +1,5 @@
 import React from 'react'
-import Interaction from "../Interaction/ınteraction";
+import Interaction from "../Interaction/interaction";
 import home_about from './home-about.jpg'
 
 

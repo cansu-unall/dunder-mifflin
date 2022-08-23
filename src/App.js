@@ -1,10 +1,8 @@
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import './App.css';
 import Header from "./components/Header/header";
-import Gif from "./components/Gif";
-import HeaderSub from "./components/Header/headersub";
+
 import React, { Component }  from 'react';
-import Promotion from "./components/Promotion/promotion"
 import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
 import Catalog from "./pages/Catalog/Catalog";
@@ -17,12 +15,11 @@ function App() {
   return (
     <div className="App">
     <BrowserRouter>
-    <Navigation />
+   
     <Header />    
-    <Gif />
-    <HeaderSub />
-    <Promotion />
+
     <Routes>
+      <Route path="/" element={<Home />} />
       <Route path="/home" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/catalog" element={<Catalog />} />

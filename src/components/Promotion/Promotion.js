@@ -34,7 +34,6 @@
             <div className="image-three">           
              <img class="image-three" src={image_three}/>
         </div>
-
         </>
     )
 }

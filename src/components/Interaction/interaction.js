@@ -1,6 +1,6 @@
 import React from 'react'
 
-import "./ınteraction.css"
+import "./interaction.css"
 import dundermifflin_icon from './dundermifflin-icon.jpg'
 
 

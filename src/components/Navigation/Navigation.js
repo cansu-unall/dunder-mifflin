@@ -7,11 +7,11 @@ const Navigation = () => {
         return data.isActive ? '-active' : ''
     }
     return (
-       <nav>
-        <NavLink to="/home" className={(data) => data.isActive ? '-active' : ''}>Home Page </NavLink>
-        <NavLink to="/about" className={(data) => data.isActive ? '-active' : ''}>About Page </NavLink>
-        <NavLink to="/catalog" className={(data) => data.isActive ? '-active' : ''}>Catalog Page </NavLink>
-        <NavLink to="/contact" className={(data) => data.isActive ? '-active' : ''}>Contact Page </NavLink>
+       <nav className= "header_navbar">
+        <NavLink to="/home" className={(data) => data.isActive ? '-active' : ''}>Home </NavLink>
+        <NavLink to="/about" className={(data) => data.isActive ? '-active' : ''}>About </NavLink>
+        <NavLink to="/catalog" className={(data) => data.isActive ? '-active' : ''}>Catalog </NavLink>
+        <NavLink to="/contact" className={(data) => data.isActive ? '-active' : ''}>Contact </NavLink>
 
          </nav> 
          )
