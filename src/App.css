@@ -50,15 +50,31 @@ body {
 /* Header Styles */
 header {
   background-color: var(--primary);
+  
 }
 
 header .inner-content {
   position: relative;
-
+  color: #071a3c;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 0;
+}
+
+
+.header-buttons{
+
+  background-color:#071a3c;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 
@@ -76,37 +92,84 @@ header .inner-content {
   font-style: oblique; 
 }
 
+.home-about{
+  position: relative;
+  bottom: 450px;
+  left: 400px;
+  font-size: 150px;
+  height: 40px;
+  width: 225px;
+}
+
+
 .think__green {
-  padding: 240px;
-  padding-right: 545px;
-  padding-left: 465px;
+  position: relative;
+  padding: 200px;
+  padding-right: 240px;
+  padding-left: 1000px;
   color: rgb(83, 83, 83);
   display: inline-block;
-  border: none;
+  border-style:double;
+  border-color: #071a3c;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 111.437%;
-  font-style: oblique; 
+  font-weight: lighter;
+  font-size: 90.437%;
+  bottom: 0px;
 }
 
 .see__our__products {
-  padding: 240px;
-  padding-right: 545px;
-  padding-left: 465px;
+  position: relative;
+  padding: 200px;
+  padding-right: 1150px;
+  padding-left: 175px;
   color: rgb(83, 83, 83);
   display: inline-block;
-  border: none;
+  border-style:double;
+  border-color: #071a3c;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 111.437%;
-  font-style: oblique;
+  font-weight: lighter;
+  font-size: 95.437%;
+  bottom: 350px;
+  
 }
 .join__our__team{
-  padding: 240px;
-  padding-right: 545px;
-  padding-left: 465px;
+  position: relative;
+  padding: 200px;
+  padding-right: 250px;
+  padding-left: 1000px;
   color: rgb(83, 83, 83);
   display: inline-block;
-  border: none;
+  border-style:double;
+  border-color: #071a3c;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 111.437%;
-  font-style: oblique;
+  font-weight: lighter;
+  font-size: 95.437%;
+  bottom: 700px;
+}
+
+.image-one{
+  position: relative;
+  bottom: 260px;  
+  left: 75px;
+  height: 400px;
+  width: 650px;
+  border-radius: 5%;
+}
+
+.image-two{
+  position: relative;
+  bottom: 430px;  
+  left: 500px;
+  height: 400px;
+  width: 650px;
+  border-radius: 5%;
+}
+
+.image-three{
+  position: relative;
+  bottom: 610px;  
+  left: 75px;
+  height: 400px;
+  width: 650px;
+  border-radius: 5%;
 }

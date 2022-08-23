@@ -1,19 +1,17 @@
 import React from 'react'
 import Interaction from "../Interaction/ınteraction";
 import HeaderSub from './headersub';
+import Navigation from '../Navigation/Navigation';
 
 
 
-
-const Header = () => {
+const Header = (props) => {
     return (
       <header>
             <div className="container">
                 <div className="inner-content">
-                    <div className="brand">Home</div>
-                    <div className="brand">About</div>
-                    <div className="brand">Catalog</div>
-                    <div className="brand">Contact</div>
+                   <h1></h1>
+               
 
 
                     <Interaction/>
