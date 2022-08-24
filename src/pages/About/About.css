@@ -4,10 +4,8 @@
     padding: 200px;
     padding-right: 240px;
     padding-left: 1000px;
+    left: -20px;
     color: rgb(83, 83, 83);
-    display: inline-block;
-    border-style:double;
-    border-color: #071a3c;
     font-family: 'Courier New', Courier, monospace;
     font-weight: lighter;
     font-size: 90.437%;
@@ -19,14 +17,12 @@
     padding: 200px;
     padding-right: 1150px;
     padding-left: 175px;
+    left: 800px;
     color: rgb(83, 83, 83);
-    display: inline-block;
-    border-style:double;
-    border-color: #071a3c;
-    font-family: 'Courier New', Courier, monospace;
+   font-family: 'Courier New', Courier, monospace;
     font-weight: lighter;
     font-size: 95.437%;
-    bottom: 350px;
+    bottom: 750px;
     
   }
   .about_third_part{
@@ -34,20 +30,18 @@
     padding: 200px;
     padding-right: 250px;
     padding-left: 1000px;
+    right: 900px;
     color: rgb(83, 83, 83);
-    display: inline-block;
-    border-style:double;
-    border-color: #071a3c;
     font-family: 'Courier New', Courier, monospace;
     font-weight: lighter;
     font-size: 95.437%;
-    bottom: 700px;
+    bottom: 1400px;
   }
   
 
   .image-about-one{
     position: relative;
-    bottom: 450px;  
+    bottom: 350px;  
     left: 75px;
     height: 400px;
     width: 650px;
@@ -55,12 +49,5 @@
   }
 
 
-  .image-about-two{
-    position: relative;
-    bottom: 450px;  
-    left: 75px;
-    height: 400px;
-    width: 650px;
-    border-radius: 5%;
-  }
+  
   

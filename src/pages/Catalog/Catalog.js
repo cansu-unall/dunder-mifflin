@@ -16,12 +16,6 @@ import product66 from './Product66.jpeg'
 import product7 from './Product7.jpeg'
 import product8 from './Product8.jpeg'
 
-
-
-
-
-
-
 const Catalog = () => {
 
 return (
