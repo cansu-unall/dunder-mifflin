@@ -23,7 +23,7 @@ return (
     </div>
 
 <div className="about_third_part">
-    <p>If you want to get to know us better, you can watch our commercial film.</p>
+    <p></p>
 </div>
     <div className="image-three">           
      

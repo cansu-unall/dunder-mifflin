@@ -13,8 +13,8 @@
 
 .catalog_header_image {
     position: relative;
-    left: 190px;
-    height: 143px;
+    left: 250px;
+    height: 200px;
     width: 73%;
     border-radius: 5%;
 }
@@ -56,7 +56,7 @@
     left: 600px;
     top: 50px;
 }
-.category-item-container {
+.catalog-item-container {
     display: block;
     position: relative;
     width: 500px;

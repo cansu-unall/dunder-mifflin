@@ -36,7 +36,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                        <div class="group-wrapper">
                           
                            <div class= "item-wrapper">
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">Premium Copy Paper</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$15.00 USD</div>
@@ -45,7 +45,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                                    <div></div>
                                </div>
                                <div></div>
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">Hole Punch Copy Paper</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$15.00 USD</div>
@@ -54,7 +54,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                                    <div></div>
                                </div>
  
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">Recycled Copy Paper</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$20.00 USD</div>
@@ -62,7 +62,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                                    <img class="other-product-image" src={product33}/>
                                    <div></div>
                                </div>
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">Michael Scott Paper Co. Copy Paper</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$15.00 USD</div>
@@ -71,7 +71,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                                    <div></div>
                                </div>
  
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">Premium Copy Paper</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$20.00 USD</div>
@@ -81,7 +81,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                                </div>
  
  
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">Return of the Office</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$20.00 USD</div>
@@ -90,7 +90,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                                    <div></div>
                                </div>
 
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">Office Trivi Crossword Book</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$20.00 USD</div>
@@ -98,7 +98,7 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
                                    <div></div>
                                </div>
 
-                               <div class="item-container">
+                               <div class="catalog-item-container">
                                    <div class="item-name">İnside Dunder Mifflin</div>
                                    <div class="regular-price">Regular Price</div>
                                    <div class="item-price">$20.00 USD</div>
