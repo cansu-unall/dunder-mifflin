@@ -3,6 +3,22 @@ import "./Catalog.css"
 import catalog_header from './catalog-header.jpeg'
 import product1 from './Product1.jpeg'
 import product11 from './Product11.jpeg'
+import product2 from './Product2.jpeg'
+import product22 from './Product22.jpeg'
+import product3 from './Product3.jpeg'
+import product33 from './Product33.jpeg'
+import product4 from './Product4.jpeg'
+import product44 from './Product44.jpeg'
+import product5 from './Product5.jpeg'
+import product55 from './Product55.jpeg'
+import product6 from './Product6.jpeg'
+import product66 from './Product66.jpeg'
+import product7 from './Product7.jpeg'
+import product8 from './Product8.jpeg'
+
+
+
+
 
 
 
@@ -22,77 +38,97 @@ On a personal computer note, I'm in competition with regional salesperson Dwight
 </div>
 
 <div class = "main-wrapper">
-                    <div class = "wrapper">
-                        <div class="group-wrapper">
-                            
-                            <div class= "item-wrapper">
-                                <div class="item-container">
-                                    <div class="item-name">Premium Copy Paper</div>
-                                    <div class="regular-price">Regular Price</div>
-                                    <div class="item-price">$150</div>
-                                    <img class="product-image" src={product1}/>                                    
-                                    <img class="other-product-image" src={product11}/>
-                                    <div></div>
-                                </div>
-                                <div class="item-container">
-                                    <div class="item-name">Premium Copy Paper</div>
-                                    <div class="regular-price">Regular Price</div>
-                                    <div class="item-price">$150</div>
-                                    <img class="product-image" src={product1}/>                                    
-                                    <img class="other-product-image" src={product11}/>
-                                    <div></div>
-                                </div>
+                   <div class = "wrapper">
+                       <div class="group-wrapper">
+                          
+                           <div class= "item-wrapper">
+                               <div class="item-container">
+                                   <div class="item-name">Premium Copy Paper</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$15.00 USD</div>
+                                   <img class="product-image" src={product1}/>                                   
+                                   <img class="other-product-image" src={product11}/>
+                                   <div></div>
+                               </div>
+                               <div></div>
+                               <div class="item-container">
+                                   <div class="item-name">Hole Punch Copy Paper</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$15.00 USD</div>
+                                   <img class="product-image" src={product2}/>                                   
+                                   <img class="other-product-image" src={product22}/>
+                                   <div></div>
+                               </div>
+ 
+                               <div class="item-container">
+                                   <div class="item-name">Recycled Copy Paper</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$20.00 USD</div>
+                                   <img class="product-image" src={product3}/>                                   
+                                   <img class="other-product-image" src={product33}/>
+                                   <div></div>
+                               </div>
+                               <div class="item-container">
+                                   <div class="item-name">Michael Scott Paper Co. Copy Paper</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$15.00 USD</div>
+                                   <img class="product-image" src={product4}/>                                   
+                                   <img class="other-product-image" src={product44}/>
+                                   <div></div>
+                               </div>
+ 
+                               <div class="item-container">
+                                   <div class="item-name">Premium Copy Paper</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$20.00 USD</div>
+                                   <img class="product-image" src={product5}/>                                   
+                                   <img class="other-product-image" src={product55}/>
+                                   <div></div>
+                               </div>
+ 
+ 
+                               <div class="item-container">
+                                   <div class="item-name">Return of the Office</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$20.00 USD</div>
+                                   <img class="product-image" src={product6}/>                                   
+                                   <img class="other-product-image" src={product66}/>
+                                   <div></div>
+                               </div>
 
-                                <div class="item-container">
-                                    <div class="item-name">Premium Copy Paper</div>
-                                    <div class="regular-price">Regular Price</div>
-                                    <div class="item-price">$150</div>
-                                    <img class="product-image" src={product1}/>                                    
-                                    <img class="other-product-image" src={product11}/>
-                                    <div></div>
-                                </div>
-                                <div class="item-container">
-                                    <div class="item-name">Premium Copy Paper</div>
-                                    <div class="regular-price">Regular Price</div>
-                                    <div class="item-price">$150</div>
-                                    <img class="product-image" src={product1}/>                                    
-                                    <img class="other-product-image" src={product11}/>
-                                    <div></div>
-                                </div>
+                               <div class="item-container">
+                                   <div class="item-name">Office Trivi Crossword Book</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$20.00 USD</div>
+                                   <img class="product-image" src={product7}/>                                   
+                                   <div></div>
+                               </div>
 
-                                <div class="item-container">
-                                    <div class="item-name">Premium Copy Paper</div>
-                                    <div class="regular-price">Regular Price</div>
-                                    <div class="item-price">$150</div>
-                                    <img class="product-image" src={product1}/>                                    
-                                    <img class="other-product-image" src={product11}/>
-                                    <div></div>
-                                </div>
-
-
-                                <div class="item-container">
-                                    <div class="item-name">Premium Copy Paper</div>
-                                    <div class="regular-price">Regular Price</div>
-                                    <div class="item-price">$150</div>
-                                    <img class="product-image" src={product1}/>                                    
-                                    <img class="other-product-image" src={product11}/>
-                                    <div></div>
-                                </div>
-
-
-
-                            </div>
-                            
-                        </div>
-                      
-                    </div>
-                    </div>
-               
-            
-
-
-
+                               <div class="item-container">
+                                   <div class="item-name">İnside Dunder Mifflin</div>
+                                   <div class="regular-price">Regular Price</div>
+                                   <div class="item-price">$20.00 USD</div>
+                                   <img class="product-image" src={product8}/>                                   
+                                   <div></div>
+                               </div>
+ 
+ 
+ 
+ 
+ 
+                           </div>
+                          
+                       </div>
+                    
+                   </div>
+                   </div>
+             
+          
+ 
+ 
+ 
 </>
 )
 }
 export default Catalog;
+

@@ -5,7 +5,6 @@
     padding-left: 100px;
     color: rgb(83, 83, 83);
     display: inline-block;
-    border-color: #071a3c;
     font-family: 'Courier New', Courier, monospace;
     font-weight: lighter;
     font-size: 90.437%;
@@ -13,39 +12,51 @@
   }
   
 
+
+
 .contract_header_image {
     position: relative;
     left: 190px;
     height: 143px;
     width: 73%;
-    border-radius: 5%;
+    border-radius: 10%;
+    
 }
 
 .member-image{
+    
     position: relative;
     bottom: 139px;
-    left: 225px;
-    height: 240px;
-    width: 240px;
+    left: 235px;
+    height: 340px;
+    width: 290px;
+    border-radius: 5%;
+    
+
 }
 
 /**/
 
 .member-name {
-    font-size: 20px;
+   
+    
+    font-size: 30px;
     display: block;
     position: relative;
     color: black;
-    left: 600px;
-    top: 50px;
+    left: 700px;
+    top: 100px;
+    font-weight: bolder;
+   
 }
 .contact-info {
     font-size: 17px;
+    font-weight: lighter;
     display: block;
     position: relative;
     color: black;
-    left: 600px;
-    top: 50px;
+    left: 700px;
+    top: 120px;
 }
 
 .title {
@@ -53,12 +64,13 @@
     display: block;
     position: relative;
     color: black;
-    left: 600px;
-    top: 50px;
+    left: 700px;
+    top: 90px;
+    font-weight: bold;
 }
 .item-container {
     display: block;
     position: relative;
     width: 500px;
-    height: 300px;
+    height: 100px;
 }

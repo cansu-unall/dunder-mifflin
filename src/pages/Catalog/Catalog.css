@@ -1,4 +1,3 @@
-
 .catalog_first_part{
     position: relative;
     padding-right: 240px;
@@ -11,7 +10,6 @@
     font-size: 90.437%;
     bottom: 0px;
   }
-  
 
 .catalog_header_image {
     position: relative;
@@ -28,6 +26,8 @@
     height: 240px;
     width: 240px;
 }
+
+
 
 /**/
 
